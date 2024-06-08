@@ -2,7 +2,11 @@
 
 Leap is a simple SPA application designed for League of Legend players to keep track of their game performances and set goals.
 
-## Get started
+## Version control
+
+This application is currently hosted publicly on [Github](https://github.com/hellolinz/zlin0379-tracker) for tracking changes and other open source purposes.
+
+## Running the app
 
 Navigate to the folder and use your favourite terminal tool to run this command.
 
@@ -22,13 +26,13 @@ There are 2 major functionalities in this app: adding games and goals.
 
 ### Record a game
 
-Use the navigation bar on the left or the buttons in the about page to navigate to games page. Press the "Record Game" button and fill out the form to add a entry of a recent game.
+Use the navigation bar on the left or the buttons in the about page to navigate to games page. Press the "Record Game" button and fill out the form to add a entry of a recent game. By inputting the data, you can keep track of your in-game data such as CS / min, Vision Score and Damage / min.
 
 ![alt text](public/img/add-games.gif)
 
 ### Setting a goal
 
-Similar to recording a game, navigate to the goals page and fill out the form.
+Similar to recording a game, navigate to the goals page and fill out the form. In this function, you can set up to 3 types of goals that you wish to achieve: CS / min, Damage / min and Vision Score. The progress of your goals will be calculated based on your average game statistics.
 
 ![alt text](public/img/add-goals.gif)
 
