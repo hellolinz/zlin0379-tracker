@@ -24,11 +24,13 @@ There are 2 major functionalities in this app: adding games and goals.
 
 Use the navigation bar on the left or the buttons in the about page to navigate to games page. Press the "Record Game" button and fill out the form to add a entry of a recent game.
 
-![alt text](public/img/add-games.gif);
+![alt text](public/img/add-games.gif)
 
 ### Setting a goal
 
 Similar to recording a game, navigate to the goals page and fill out the form.
+
+![alt text](public/img/add-goals.gif)
 
 ## Development Process
 
