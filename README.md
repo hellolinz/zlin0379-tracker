@@ -14,7 +14,7 @@ Navigate to the folder and use your favourite terminal tool to run this command.
 node server.js
 ```
 
-After running the command, the a live server will be initialised. Type [localhost:8888](http://localhost:8888) in your browser to enter the app.
+After running the command, a live server will be initialised. Type [localhost:8888](http://localhost:8888) in your browser to enter the app.
 
 ```bash
 App server is running on port 8888
